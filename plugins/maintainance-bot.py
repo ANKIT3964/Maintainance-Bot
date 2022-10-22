@@ -11,8 +11,8 @@ async def start(bot, update):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [[
-            InlineKeyboardButton("Update Channel", url=Config.UPDATE_CHANNEL),
-            InlineKeyboardButton("Support Group", url=Config.SUPPORT_GROUP)
+            InlineKeyboardButton("Update Channel", url=https://t.me/defenderofthemultiverse"),
+            InlineKeyboardButton("Support Group", url=https://t.me/thewarriorsreal")
             ],[
             InlineKeyboardButton("Repo", url="https://github.com/HeimanPictures/Maintenance-Bot/")
             ]]
